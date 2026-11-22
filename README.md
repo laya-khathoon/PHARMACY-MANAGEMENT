@@ -4,6 +4,8 @@ A web-based Pharmacy Management System developed using Python Flask and MySQL to
 
 **Live demo:** https://pharmacy-management-gray.vercel.app (deployed free on Vercel with a TiDB Cloud database; first visit after idle may take a few seconds while the function cold-starts).
 
+**Project home:** active development happens in the [pharmacy-management-system-mini-project/PHARMACY-MANAGEMENT](https://github.com/pharmacy-management-system-mini-project/PHARMACY-MANAGEMENT) organization repository; this fork tracks it.
+
 ## Overview
 
 The Pharmacy Management System is designed to simplify pharmacy management by providing a web-based platform backed by a MySQL database.
@@ -47,7 +49,7 @@ Make sure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Malavika1105/PHARMACY-MANAGEMENT.git
+git clone https://github.com/pharmacy-management-system-mini-project/PHARMACY-MANAGEMENT.git
 ```
 
 ### 2. Navigate to the Project Directory
